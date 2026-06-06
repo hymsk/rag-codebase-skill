@@ -1,0 +1,7 @@
+# Direct dependency bounds, not a transitive lock.
+chromadb>=1.0,<2
+tokenizers>=0.20,<1
+tree-sitter>=0.25,<0.26
+tree-sitter-cpp>=0.23,<0.24
+tree-sitter-python>=0.23,<0.26
+tree-sitter-go>=0.23,<0.26
